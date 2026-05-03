@@ -9,7 +9,7 @@ print("FASE 1: PREPARAÇÃO DE DADOS - CLUSTERING POR REGIÃO")
 print("="*70)
 
 # 1. CARREGAR DADOS
-df = pd.read_csv('dados_processados/escolas_2024_consolidado.csv')
+df = pd.read_csv('01_analises/escolas_2024_consolidado.csv')
 print(f"\n✓ Dataset carregado: {df.shape}")
 
 # 2. FILTRAR APENAS REGIÕES

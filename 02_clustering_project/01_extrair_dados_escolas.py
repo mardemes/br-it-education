@@ -23,7 +23,7 @@ import json
 # ============================================================================
 
 # Caminho do arquivo (ajuste conforme necessário)
-ARQUIVO_EXCEL = 'tic_educacao_2024_escolas_tabela_total_v1.0.xlsx'
+ARQUIVO_EXCEL = '01_analises/tic_educacao_2024_escolas_tabela_total_v1.0.xlsx'
 PASTA_OUTPUT = 'dados_processados'
 
 # Sheets prioritárias para extração

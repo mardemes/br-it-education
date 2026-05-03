@@ -1,0 +1,17 @@
+================================================================================
+RELATÓRIO DE CLUSTER ANALYSIS - REGIÕES BRASILEIRAS
+Perfis Digitais da Educação
+================================================================================
+
+Dados analisados: 5 regiões, 162 features
+Método: K-Means com PCA
+Número de clusters: 2
+Silhouette Score: 0.390
+
+COMPOSIÇÃO DOS CLUSTERS:
+--------------------------------------------------------------------------------
+
+Cluster 1: Centro-Oeste, Norte, Sul
+
+Cluster 2: Nordeste, Sudeste
+

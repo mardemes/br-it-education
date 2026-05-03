@@ -1,0 +1,56 @@
+
+RELATÓRIO DE EXTRAÇÃO - TIC EDUCAÇÃO 2024 (ESCOLAS)
+======================================================================
+
+RESUMO:
+- Total de observações: 26
+- Total de features: 246
+- Sheets processadas: 15
+
+OBSERVAÇÕES EXTRAÍDAS:
+  - DEPENDÊNCIA_ADMINISTRATIVA_Estadual
+  - DEPENDÊNCIA_ADMINISTRATIVA_Municipal
+  - DEPENDÊNCIA_ADMINISTRATIVA_Particular
+  - DEPENDÊNCIA_ADMINISTRATIVA_Públicas_(Municipal,_Estadual_e_Federal)
+  - ESCOLA_COM_INTERNET_E_COMPUTADOR_PARA_USO_DOS_ALUNOS_Não
+  - ESCOLA_COM_INTERNET_E_COMPUTADOR_PARA_USO_DOS_ALUNOS_Sim
+  - Fonte:_Núcleo_de_Informação_e_Coordenação_do_Ponto_BR._(2024)._Pesquisa_sobre_o_uso_das_tecnologias_de_informação_e_comunicação_nos_domicílios_brasileiros:_TIC_Educação_2024_[Tabelas]._Total
+  - LOCALIZAÇÃO_Capital
+  - LOCALIZAÇÃO_Interior
+  - NÍVEL_DE_ENSINO_MAIS_ELEVADO_OFERTADO_Até_Ensino_Médio_ou_Educação_Profissional
+  - NÍVEL_DE_ENSINO_MAIS_ELEVADO_OFERTADO_Até_anos_finais_do_Ensino_Fundamental
+  - NÍVEL_DE_ENSINO_MAIS_ELEVADO_OFERTADO_Até_anos_iniciais_do_Ensino_Fundamental
+  - PORTE_Até_50_matrículas
+  - PORTE_De_151_a_300_matrículas
+  - PORTE_De_301_a_500_matrículas
+  - PORTE_De_501_a_1.000_matrículas
+  - PORTE_De_51_a_150_matrículas
+  - PORTE_Mais_de_1.000_matrículas
+  - REGIÃO_Centro-Oeste
+  - REGIÃO_Nordeste
+  ... (total: 26)
+
+FEATURES POR CATEGORIA:
+
+INFRAESTRUTURA:
+  - A1: 6 features
+  - B1: 4 features
+  - B1C: 9 features
+  - B2: 14 features
+
+CONECTIVIDADE:
+  - A2: 10 features
+  - A3_1: 12 features
+  - A4: 6 features
+  - C1: 42 features
+
+GESTAO_USO:
+  - E1: 32 features
+  - E1A: 7 features
+  - F1: 14 features
+  - F2: 6 features
+  - G4: 30 features
+
+CONTEXTO:
+  - K3: 28 features
+  - K6: 26 features
